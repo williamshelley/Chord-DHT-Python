@@ -1,2 +1,2 @@
 # Chord-DHT-Python
-Computer Networks Final  2019
+Distributed Hash Table (Chord Protocol) Implementation
